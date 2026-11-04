@@ -1,0 +1,22 @@
+# Dataset — download from https://data.mendeley.com/datasets/w7hm97cts5/2
+dataset/EOG_raw_signal.csv
+dataset/Labeled_EOG_Dataset.csv
+
+# Trained model artefacts
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

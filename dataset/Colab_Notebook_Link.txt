@@ -1,0 +1,6 @@
+ENLACE AL NOTEBOOK EN GOOGLE COLAB
+
+Título: Fatiga Ocular en Conductores — Análisis de Señal EOG Vertical
+Equipo: Equipo 4 - BI2010
+
+Enlace Colab: https://colab.research.google.com/drive/1hXlsfjPbrjQJJZ9nxLxb_U6UElJaItKg?usp=sharing
